@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+.container > div {
+  flex: 1; /*grow*/
+}
+.bottomdiv { 
+margin-top:0px; 
+}
+.topdiv { 
+margin-bottom:0px; 
+} 
